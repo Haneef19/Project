@@ -1,0 +1,31 @@
+.container-fluid
+{
+    margin-left: 30px ;
+}
+.nav-items
+{
+  
+    top: 55%;
+    left: 45%;
+  
+padding: 7px 20px;
+
+color: rgb(202, 207, 130);
+text-decoration: none;
+transition: 0.6s ease;
+
+    
+}
+.lb{
+    color: black;
+}
+
+.nav-items:hover{
+    background-color: rgb(190, 199, 110);
+color: #fff;
+}
+
+.nav-link{
+    color: whitesmoke;
+    font-size: 3vh;
+}
